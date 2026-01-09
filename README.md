@@ -15,5 +15,5 @@
 
 ## **Social Media**
 
-### [Linkedin](www.linkedin.com/in/abel-vicente)
+### [Linkedin](https://linkedin.com/in/abel-vicente)
 ### [Discord](https://discord.com/channels/@me)
