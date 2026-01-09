@@ -15,5 +15,5 @@
 
 ## **Social Media**
 
-### [![Linkedin](https://www.cidademarketing.com.br/marketing/2021/06/28/linkedin-disponibiliza-campo-exclusivo-para-pronomes-no-perfil-dos-usuarios/)](www.linkedin.com/in/abel-vicente-a420a02a8)
+### [Linkedin](www.linkedin.com/in/abel-vicente-a420a02a8)
 ### [Discord](https://discord.com/channels/@me)
