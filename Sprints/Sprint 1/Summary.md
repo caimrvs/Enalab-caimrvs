@@ -7,11 +7,9 @@ On this day, I studied the materials from SDLC tasks, and I create my diagram fo
 
 **[The LifeCycle on my Github](https://github.com/caimrvs/Enalab-caimrvs/blob/main/Sprints/Sprint%201/LifeCycle.md)**
 
-### ✅ Day 2
-**AFK**
+### ✅ Day 2 - Absent
 
-### ✅ Day 3
-**AFK**
+### ✅ Day 3 - Absent
 
 ### ✅ Day 4
 I maked organization of my workspace, my git repositories and folders.
