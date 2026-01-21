@@ -1,6 +1,6 @@
 # Requiriments Analysis 
 
-## Facebook
+## X, or old Twitter
 
 ### Funcionals requiriments:
 
@@ -10,6 +10,6 @@
 
 ### Non funcionals requiriments:
 
-- Facebook logo on website page;
+- X logo on website page;
 - System protects datas;
-- The program is compatible with all devices.
+- The program is compatible with all devices.S
