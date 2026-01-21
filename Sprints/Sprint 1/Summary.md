@@ -1,5 +1,5 @@
 # Summary - Sprint 1 
-## Week 1
+## **Week 1**
 
 ### ✅ Day 1
 
@@ -25,7 +25,7 @@ Make the foldes of sprints summary in my Github. This folders:
 ### ✅ Day 5 
  I studied the continuation of SDLC, the Agile, Scrum metodologies, and completed my folders organization on my desktop.
 
-## Week 2
+## **Week 2**
 
 ### ✅ Day 1
 On this day I completed the requiriment analysis tasks.
@@ -34,4 +34,13 @@ On the night I continued reading materials and thinking for requiriments non fun
 
 **[Requiriments Analysis task on my Github](https://github.com/caimrvs/Enalab-caimrvs/blob/main/Sprints/Sprint%201/Requiriments%20Analysis.md)**
 
-### ✅ Day 2S
+
+### ✅ Day 2
+
+I finished Week 1 by completing the final tasks: User Stories and Criteria.
+On that day, I worked on the User Stories content, watching the classes, and I believe I understood the content quite well. I created my User Stories based on the Enalab project.
+I also worked on the DoD, DoS, and acceptance criteria, where I understood much more than I did with the User Stories.
+
+Here are the links to my Markdown archives.
+
+**[Users Stories and DoS, DoR and Acceptance Criteria](https://github.com/caimrvs/Enalab-caimrvs/blob/main/Sprints/Sprint%201/User%20Stories.md)**
