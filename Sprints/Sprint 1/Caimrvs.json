@@ -1,8 +1,10 @@
 {
 "name": "Abel",
 "age": "18",
-"Skills": [
+"Skills": 
+    [
     Communication,
     fast learner,
-    easy adaptation with projects],
+    easy adaptation with projects
+    ],
 }
