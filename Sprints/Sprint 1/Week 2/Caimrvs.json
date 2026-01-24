@@ -3,8 +3,9 @@
 "age": "18",
 "Skills": 
     [
-    Communication,
-    fast learner,
-    easy adaptation with projects
+    "Communication",
+    "fast learner",
+    "easy adaptation with projects"
     ],
+"IsActive": true
 }
